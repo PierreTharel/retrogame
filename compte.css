@@ -1,0 +1,137 @@
+header{
+    width : 1350px;
+    height : 332px;
+    background-color: #F5225C;
+}
+
+#logo{
+    height : 330px;
+    width : 320px;
+}
+
+#bouton1, #bouton2, #bouton3, #bouton4{
+    width : 100px;
+    display: inline;
+}
+
+#bouton1{
+    margin-left: 180px;
+    margin-bottom: 120px;
+}
+
+#bouton2{
+    margin-left: 110px;
+    margin-bottom: 120px;
+}
+
+
+#bouton3{
+    margin-left: 70px;
+    margin-bottom: 120px;
+}
+
+#bouton4{
+    margin-left: 110px;
+    margin-bottom: 120px;
+}
+
+.accueil{
+    margin-left : 490px;
+    position: relative;
+    bottom : 80px;
+} 
+
+.compte{
+    margin-left : 65px;
+    position: relative;
+    bottom : 80px;
+}
+
+.vente{
+    margin-left : 887px;
+    position: relative;
+    bottom : 120px;
+}
+
+.recherche{
+    margin-left : 1058px;
+    position: relative;
+    bottom : 155px;
+} 
+
+a, h2{
+    font-size: 2em;
+    font-family: arial;
+    color : white;
+    text-decoration : none;
+}
+
+a{
+    text-transform: uppercase;
+}
+
+h2{
+    margin-top : 2px;
+}
+
+#brands{
+    background-color: #d917fa;
+    width : 1350px;
+    height : 784px;
+}
+
+#formulaire{
+    background-color: #F5225C;
+    width : 834px;
+    height: 510px;
+    margin-left : 250px;
+    margin-top : 60px;
+}
+
+input{
+    width : 420px;
+    height : 50px;
+}
+
+.input{
+    width : 160px;
+    height : 30px;
+    margin-left: 250px;
+}
+
+p{
+    margin-left: 250px;
+}
+
+td{
+    text-align : center;
+}
+
+table{
+    border-spacing: 100px 6rem;
+}
+
+button{
+    margin-left : 300px;
+    width : 190px;
+    height: 64px;
+    font-family: arial;
+    background-color: #16FAB2;
+}
+
+footer{
+    background-color: #F5225C;
+    width : 1350px;
+    height : 60px;
+    text-align: center;
+}
+
+.footer{
+    text-transform: capitalize;
+    font-size: 1.5em;
+    margin : 10px;
+}
+
+.champ, .nouveaucompte{
+    font-family: arial;
+}

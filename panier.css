@@ -1,0 +1,103 @@
+header{
+    width : 1350px;
+    height : 332px;
+    background-color: #F5225C;
+}
+
+#logo{
+    height : 330px;
+    width : 320px;
+}
+
+#bouton1, #bouton2, #bouton3, #bouton4{
+    width : 100px;
+    display: inline;
+}
+
+#bouton1{
+    margin-left: 180px;
+    margin-bottom: 120px;
+}
+
+#bouton2{
+    margin-left: 110px;
+    margin-bottom: 120px;
+}
+
+
+#bouton3{
+    margin-left: 70px;
+    margin-bottom: 120px;
+}
+
+#bouton4{
+    margin-left: 110px;
+    margin-bottom: 120px;
+}
+
+.accueil{
+    margin-left : 490px;
+    position: relative;
+    bottom : 80px;
+} 
+
+.compte{
+    margin-left : 65px;
+    position: relative;
+    bottom : 80px;
+}
+
+.vente{
+    margin-left : 887px;
+    position: relative;
+    bottom : 120px;
+}
+
+.recherche{
+    margin-left : 1058px;
+    position: relative;
+    bottom : 155px;
+} 
+
+a, h2, h3{
+    font-size: 2em;
+    font-family: arial;
+    color : white;
+    text-decoration : none;
+}
+
+a{
+    text-transform: uppercase;
+}
+
+h2{
+    margin-top : 2px;
+}
+
+#brands{
+    background-color: #d917fa;
+    width : 1350px;
+    height : 724px;
+}
+
+table{
+    border-collapse: collapse
+}
+  
+td{
+    border: 1px solid black;
+    padding: 10px;
+}
+
+footer{
+    background-color: #F5225C;
+    width : 1350px;
+    height : 60px;
+    text-align: center;
+}
+
+.footer{
+    text-transform: capitalize;
+    font-size: 1.5em;
+    margin : 10px;
+}
